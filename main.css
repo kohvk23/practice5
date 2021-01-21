@@ -1,0 +1,81 @@
+html {
+    background: #000000;
+    -webkit-font-smoothing: antialiased;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Chango);
+body {
+    font-family: 'メイリオ', 'Hiragino kaku Gothic Pro', sans-serif;
+    background-color: #ffffff;
+    margin: 0
+}
+
+
+
+
+
+/*ヘッダー*/
+
+header {
+    background-color: #ffffff;
+    border-bottom: solid 1px #000000;
+    margin-bottom: 50px;
+    padding: 5px
+}
+
+header h1 {
+    font-family: 'Arial Black', sans-serif;
+    text-align: center;
+    color: #000000;
+    font-size: 90px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 70px
+}
+
+/*記事*/
+
+article {
+    background-color: #ffffff;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+article h1 {
+            font-family: 'Arial Black', sans-serif;
+            color: #000000;
+            text-align: center;
+            font-size: 30px
+}
+
+ article h2 {
+     font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px
+    
+}
+
+table{
+    width: %;
+    margin: 0 auto;
+    background-color: ffffff;
+}
+
+
+
+td{
+    text-align: center;
+}
+
+.retusukima{
+    border-collapse: separate;
+    border-spacing: 30px 50px;
+}
+
